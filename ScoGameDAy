@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ScoGameDay</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>ScoGameDay</h1>
+        <p>Your go-to app for tracking Masco sports teams!</p>
+    </header>
+
+    <main>
+        <section class="hero">
+            <img src="path/to/your/photo.jpg" alt="Masco Sports" class="hero-image">
+        </section>
+
+        <section class="teams">
+            <h2>Teams</h2>
+            <p>List of all Masco sports teams will go here.</p>
+        </section>
+
+        <section class="stats">
+            <h2>Stats</h2>
+            <p>Performance statistics for each team will be available here.</p>
+        </section>
+
+        <section class="schedule">
+            <h2>Schedule</h2>
+            <p>Upcoming games and events schedule will be displayed here.</p>
+        </section>
+
+        <section class="about">
+            <h2>About</h2>
+            <p>Learn more about ScoGameDay and its purpose.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 ScoGameDay. All rights reserved.</p>
+    </footer>
+</body>
+</html>
